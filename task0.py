@@ -5,3 +5,6 @@ for i in range(0,100):
     print("Fizz")
   elif i % 5 == 0:
     print("Buzz")
+
+
+    
