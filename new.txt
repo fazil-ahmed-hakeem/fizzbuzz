@@ -1,0 +1,51 @@
+1s0l4t10ns pr0v1d3d by d0ck3r
+=============================
+1 -> (St0r4g3) v0lum3
+2 -> pr0c3ss - Sch3dul3r
+3 -> N3tw0rk1ng(N3tst4ck)
+4 -> S3cur1ty s3rv1c3s
+
+
+V4r1bl3s -> c0nt41n3rs th4t h0ld 4 v4lu3 th4t c4n b3 ch4ng3d (m3m0ry l0c4t10n)
+D4t4 Typ3s -> numb3rs, l1sts, s3ts, Str1ng, d1ct10n4ry, Tupl3s, R4ng3
+
+L1st -> 
+	1. 0n3 0f th3 4 bu1lt-1n d4t4 typ3 - P4rt 0f pyth0n C0ll3ct10ns
+	2. us3d t0 st0r3 mult1pl3 1t3ms
+	3. 0rd3r 0f 1t3ms 1n th3 l1st 0n h0w 1t 1s 1ns3rt3d w1ll n0t ch4ng3
+	4. 4ll0ws dul1c4t3 v4lu3s
+
+Tupl3s -> 
+	1. 0n3 0f th3 4 bu1lt-1n d4t4 typ3 - P4rt 0f pyth0n C0ll3ct10ns
+	2. St4t1c d4t4 typ3
+	3. b3st su1t3d f0r 4cc3ss1ng 3l3m3nts qu1ckly
+	4. l3ss m3m0ry
+
+D1ct10n4r13s ->
+	1. St0r3d d4t4 1n k3y v4lu3 p41r
+	2. D03s n0t h4v3 4 st4t1c n4tur3 - (mut4bl3)
+	3. C4nn0t h4v3 dupl1c4t3 k3ys
+	
+S3l3ct1ng th3 pyth0n d4t4 Structur3 ->
+
+
+L1nux ->
+	Th3 m0st p0pul4r 0S 1n th3 w0rld
+	C0mpr1s3s 0f v4r10us p13c3s l1k3 -> B00tl04d3r,K3rn3l, 1n1t syst3m, D43m0ns, Gr4ph1c4l s3rv3r, D3skt0p 3nv1r0nm3nt, 4ppl1c4t10ns.
+	0n3 0f th3 m4j0r r34s0n f0r us1ng l1nux 1s 1t pr0v1d3s b3tt3r pr0t3ct10n 0v3r v1rus3s, m4lw4r3.
+	1t 1s 0p3n s0urc3. h4s m4ny d1str1but10ns
+T3rm1n4l -> 
+	l1k3 k3yb04rds 4nd 0th3r d3v1c3s c0nn3ct3d t0 0ur syst3m 4 t3rm1n4l 1s l1k3 4 t3xt-b4s3d 1nt3rf4c3 0f 0ur c0mput3r. 
+Sh3ll ->
+	Sh3ll 1s 4 pr0gr4m th4t 4cts 4s 4n 1nt3rf4c3 b3tw33n th3 k3rn3l 4nd th3 us3r
+	
+	
+G1t-> 
+	1t 4cts 4s 4 v3rs10n c0ntr0l m3ch4n1sm f0r k33p tr4ck 0f v4r10us v3rs10ns 0f 3d1t 0n 4 f1l3. G1t c4n 4ct l0c4lly w1th 1n th3 m4ch1n3 0r w3 c4n us3 g1t hub t0 m4n4g3 f1l3s by sh4r1ng w1th th3 t34m.
+G1tHub ->
+	G1thub 4cts 4s 4 cl0ud 0f r3p0s1t0r13s f0r st0r1ng 4nd 4cc3ss1ng 4 c0d3 b4s3 r3m0t3ly by 0n3 0r m4ny us3rs. Wh3n th3 c0d3 b4s3 1s hug3 4nd th3 d3v3l0pm3nt t34m 1s v3ry hugh 1t 1s 34sy f0r th3 m4n4g3rs t0 k33p tr4ck 0f h1st0ry 0f c0d3 r3m0t3ly us1ng G1tHub
+	
+C0nt41n3rs ->
+	H3lps us 1s0l4t3 th3 pr0c3ss3s 4nd run s3p3r4t3ly b4s3d 0n th3 n33d 0f th3 CPU. 0S, c0d3 b4s3 4nd 0th3r pr0c3ss3s c4n b3 p4ck4g3d 1nt0 4n c0nt41n3r 4nd 1t c4n b3 spunn3d up 0nly wh3n 1t 1s n33d3d, s4v1ng 4 f0rtun3 0f 4m0unt f0r th3 c0mp4ny fr0m k33p1ng th3 m4ch1n3 runn1ng 4ll th3 t1m3 3v3n wh3n th3r3 1s 0 l04d 0n th3 s3rv3r
+
+	

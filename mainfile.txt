@@ -1,0 +1,51 @@
+Isolations provided by docker
+=============================
+1 -> (Storage) volume
+2 -> process - Scheduler
+3 -> Networking(Netstack)
+4 -> Security services
+
+
+Varibles -> containers that hold a value that can be changed (memory location)
+Data Types -> numbers, lists, sets, String, dictionary, Tuples, Range
+
+List -> 
+	1. one of the 4 built-in data type - Part of python Collections
+	2. used to store multiple items
+	3. order of items in the list on how it is inserted will not change
+	4. allows dulicate values
+
+Tuples -> 
+	1. one of the 4 built-in data type - Part of python Collections
+	2. Static data type
+	3. best suited for accessing elements quickly
+	4. less memory
+
+Dictionaries ->
+	1. Stored data in key value pair
+	2. Does not have a static nature - (mutable)
+	3. Cannot have duplicate keys
+	
+Selecting the python data Structure ->
+
+
+Linux ->
+	The most popular OS in the world
+	Comprises of various pieces like -> Bootloader,Kernel, init system, Daemons, Graphical server, Desktop environment, Applications.
+	One of the major reason for using linux is it provides better protection over viruses, malware.
+	It is open source. has many distributions
+Terminal -> 
+	like keyboards and other devices connected to our system a terminal is like a text-based interface of our computer. 
+Shell ->
+	Shell is a program that acts as an interface between the kernel and the user
+	
+	
+Git-> 
+	it acts as a version control mechanism for keep track of various versions of edit on a file. Git can act locally with in the machine or we can use git hub to manage files by sharing with the team.
+GitHub ->
+	Github acts as a cloud of repositories for storing and accessing a code base remotely by one or many users. When the code base is huge and the development team is very hugh it is easy for the managers to keep track of history of code remotely using GitHub
+	
+Containers ->
+	Helps us isolate the processes and run seperately based on the need of the CPU. OS, code base and other processes can be packaged into an container and it can be spunned up only when it is needed, saving a fortune of amount for the company from keeping the machine running all the time even when there is 0 load on the server
+
+	
